@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4rlosed&layout=compact&theme=dark"/>
 </div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,cs,figma,godot,mysql,php,react,wordpress" />
+  </a>
+</p>
