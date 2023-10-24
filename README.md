@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4rlosed&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4rlosed&layout=compact&theme=dark"/>
 </div>
