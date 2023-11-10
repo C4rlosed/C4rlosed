@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 **Meus conhecimentos:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,cs,figma,godot,mysql,php,react,wordpress" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,cs,figma,mysql,php,react" />
   </a>
 </p>
 
