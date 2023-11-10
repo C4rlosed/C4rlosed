@@ -1,4 +1,4 @@
-### Olá, eu sou Carlos! 👋
+### Hello, i am Carlos! 👋
 
 <!--
 **C4rlosed/C4rlosed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
+<div style='display: flex'>
   <img src="https://github-readme-stats.vercel.app/api?username=c4rlosed&show_icons=true&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4rlosed&layout=compact&theme=dark"/>
 </div>
 
-**Meus conhecimentos:**
+**My knowledges:**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,cs,figma,mysql,php,react" />
