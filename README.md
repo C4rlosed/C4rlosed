@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-**Contato:**
+**Contact:**
 <br>
 <div>
   <a href="https://www.instagram.com/c4rlosed/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>  
