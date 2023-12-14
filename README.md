@@ -1,5 +1,8 @@
-### Hello, i am Carlos! 👋
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B0F7&random=false&width=435&lines=%3Ch1%3EHello+World%3C%2Fh1%3E;%3Ch2%3EI'm+Carlos+Eduardo%3C%2Fh2%3E;%3Ch3%3EI+study+computer+science%3C%2Fh3%3E" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    
+  font=Fira+Code&pause=1000&color=00B0F7&random=false&width=435&lines=%3Ch1%3EHello+World%3C%2Fh1%3E;%3Ch2%3EI'm+Carlos+Eduardo%3C%2Fh2%3E;%3Ch3%3EI+study+computer+science%3C%2Fh3%3E" alt="Typing SVG" /></a>
+</div>
+
 <!--
 **C4rlosed/C4rlosed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
